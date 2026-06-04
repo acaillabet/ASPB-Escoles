@@ -17,9 +17,9 @@ https://www.figma.com/files/team/1600441375476404006/project/546531225?fuid=1600
 Buscar por palabras
 
 -- **Ambitos temáticos**  
-Hábitos saludables
-Prevención de adicciones
-Bienestar emocional
+Hábitos saludables  
+Prevención de adicciones  
+Bienestar emocional  
 
 
 -- Tipología de Endpoints
