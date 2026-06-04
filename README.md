@@ -17,8 +17,13 @@ https://www.figma.com/files/team/1600441375476404006/project/546531225?fuid=1600
 -- Buscar por palabras
 
 -- **Ambitos temáticos**  
-Hábitos saludables  
+Hábitos saludables 
+ | Cepillado dientes  
+ | Lavado Manos  
+ | Dormir  
 Prevención de adicciones  
 Bienestar emocional  
+
+
 
 -- Tipología de Endpoints  
