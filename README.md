@@ -14,6 +14,7 @@ https://www.figma.com/files/team/1600441375476404006/project/546531225?fuid=1600
 
 ## Reunión 04/06/26
 - Kilian trabajará las tipologías de EndPoint
+https://aspbar.sharepoint.com/:x:/r/sites/WebEscoles2026/Documentos%20compartidos/Web%20Escoles%202026/Mapa%20web.xlsx?d=wd1f38ef35a5d4bc4a7310816e900e7f7&csf=1&web=1&e=qeX0S5  
 - Ana comenzar a armar la estructura en FIGMA
 
 -----------------
