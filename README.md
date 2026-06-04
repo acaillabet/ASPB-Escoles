@@ -12,6 +12,11 @@ https://www.figma.com/files/team/1600441375476404006/project/546531225?fuid=1600
 - Kilian trabajará las tipologías de EndPoint
 - Comenzar a trabajar el Excel con el esquema del Repositorio estilo RiD
 
+## Reunión 04/06/26
+- Decidimos organizarons a través de un Github
+- Kilian trabajará las tipologías de EndPoint
+- Comenzar a trabajar el Excel con el esquema del Repositorio estilo RiD
+
 -----------------
 
 ## Filtros
