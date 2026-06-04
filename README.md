@@ -23,7 +23,7 @@ Bienestar emocional
 
 -- **Tipología**  
 Guía  
-Material para familia
+Material para familia  
 Actividades  
 
 -- **Palábras Claves** //// No Aparece en Filtro /// Aparece en En Point  /// 
