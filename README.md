@@ -18,11 +18,13 @@ https://www.figma.com/files/team/1600441375476404006/project/546531225?fuid=1600
 
 -- **Ambitos temáticos**  
 Hábitos saludables 
+Prevención de adicciones  
+Bienestar emocional  
+
+-- **Palábras Claves**  
  | Cepillado dientes  
  | Lavado Manos  
  | Dormir  
-Prevención de adicciones  
-Bienestar emocional  
 
 
 
