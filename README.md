@@ -18,10 +18,10 @@ https://www.figma.com/files/team/1600441375476404006/project/546531225?fuid=1600
 
 -- **Ambitos temáticos**  
 Hábitos saludables 
-Prevención de adicciones  
+Prevención de adicciones    
 Bienestar emocional  
 
--- **Palábras Claves** //// No Aparece /// Tiene que estar la opción oculta de palabras claves para que aparezca en la búsqueda o puede aparecer y ayudar a la búsqueda.  
+-- **Palábras Claves** //// No Aparece en Filtro /// Aparece en En Point  /// 
  | Cepillado dientes  
  | Lavado Manos  
  | Dormir  
