@@ -21,7 +21,7 @@ Hábitos saludables
 Prevención de adicciones  
 Bienestar emocional  
 
--- **Palábras Claves** //// No Aparece /// Tiene que estar la opción oculta de palabras claves para que aparezca en la búsqueda.  
+-- **Palábras Claves** //// No Aparece /// Tiene que estar la opción oculta de palabras claves para que aparezca en la búsqueda o puede aparecer y ayudar a la búsqueda.
  | Cepillado dientes  
  | Lavado Manos  
  | Dormir  
