@@ -13,5 +13,10 @@ https://www.figma.com/files/team/1600441375476404006/project/546531225?fuid=1600
 - Comenzar a trabajar el Excel con el esquema del Repositorio estilo RiD
 
 ## Filtros
+-- Ambitos temáticos  
+Hábitos Saludables
+-- Tipología de Endpoints
 
-## Tipología de Endpoints
+## Tipo Embudo  
+De más a menos
+De menos a más
