@@ -21,11 +21,4 @@ Hábitos saludables
 Prevención de adicciones  
 Bienestar emocional  
 
-
--- Tipología de Endpoints
-
-# Material
-
-## Tipo Embudo  
-De más a menos /// Anna cree es lo mejor  
-De menos a más
+-- Tipología de Endpoints  
