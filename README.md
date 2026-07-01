@@ -24,6 +24,10 @@ https://www.figma.com/files/team/1600441375476404006/project/546531225?fuid=1600
 Ámbitos:
 - Hábitos Saludables
 
+## Reunión 01/0626
+- Kilian pedir a Raul el Excel con todo el listado de PDFs que hay actualmente en la web aspb.cat
+- Próxima reunión analizar Excel y ver si sirven cómo Enpoint
+
 ## Reunión 28/05/26
 - Decidimos organizarons a través de un Github
 - Kilian trabajará las tipologías de EndPoint
