@@ -24,7 +24,12 @@ https://www.figma.com/files/team/1600441375476404006/project/546531225?fuid=1600
 Ámbitos:
 - Hábitos Saludables
 
-## Reunión 01/0626
+## Reunión Miércoles 08/07/26
+- Analizamos Excel 
+- Ana hablar con ATIPUS
+- Kilian hablar con Anna Perez para que hable con Maica
+
+## Reunión 01/06/26
 - Kilian pedir a Raul el Excel con todo el listado de PDFs que hay actualmente en la web aspb.cat
 - Próxima reunión analizar Excel y ver si sirven cómo Enpoint
 
